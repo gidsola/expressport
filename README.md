@@ -1,5 +1,7 @@
-# Express + Vite React App
-A full-stack app with **Express.js** (backend) and **Vite + React** (frontend), using **npm workspaces** for dependency management.
+# Express + Vite React Starter App
+A **starter template** for building full-stack apps with **Express.js** (backend) and **Vite + React** (frontend), using **npm workspaces** for seamless dependency management.
+This template is designed to help you quickly set up and start building your next project with modern tooling and best practices.
+
 
 ---
 ## Folder Structure
