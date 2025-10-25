@@ -29,8 +29,8 @@ your-project/
 │   ├── src/
 │   │   ├── routes/
 │   │   │   ├── api_master.js
-│   │   │   ├── links.js
-│   │   │   └── express.js # Main Express server
+│   │   │   
+│   │   │── express.js # Main Express server
 │   ├── package-lock.json
 │   ├── package.json
 │   └── README.md
@@ -92,7 +92,7 @@ npm start
 ## API Endpoints
 | Endpoint          | Method | Description               |
 |-------------------|--------|---------------------------|
-| `/api/links`      | GET    | Get a list of links.      |
+| '/api/'
 
 ---
 
